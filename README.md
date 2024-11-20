@@ -30,8 +30,8 @@ This project would not have been possible without the guidance provided in **Yve
 2. Open the Notebook in Jupyter:
 
  ```bash
-jupyter notebook Portfolio Simulator V1.0.ipynb
-```
+ jupyter notebook Portfolio Simulator V1.0.ipynb
+ ```
 3. Update the Notebook:
     - Replace asset tickers and date ranges with your preferred inputs.
     - Adjust parameters such as the risk-free rate (Rf) or simulation count (simulations) if needed.
