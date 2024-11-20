@@ -58,3 +58,5 @@ The script conducts independent T-tests to compare expected returns, standard de
 
 ## Contact
 If you have any questions or feedback, feel free to reach out.
+
+You can contact me via: zeinalamah.com
