@@ -29,9 +29,9 @@ This project would not have been possible without the guidance provided in **Yve
    ```
 2. **Open the Notebook in Jupyter**:
 
- ```bash
-     jupyter notebook Portfolio Simulator V1.0.ipynb
- ```
+   ```bash
+   jupyter notebook Portfolio Simulator V1.0.ipynb
+   ```
 3. **Update the Notebook**:
     - Replace asset tickers and date ranges with your preferred inputs.
     - Adjust parameters such as the risk-free rate (Rf) or simulation count (simulations) if needed.
@@ -45,10 +45,10 @@ It serves as an educational tool for understanding portfolio theory and financia
 Feel free to adapt the script to suit your research or personal learning goals.
 
 ## Output
-The notebook generates:
+**The notebook generates**:
 
 CSV files containing portfolio and benchmark returns, weights, and metrics.
-Visual outputs, such as:
+**Visual outputs**, such as:
 Correlation and covariance matrices.
 Bar charts for portfolio and benchmark asset allocations.
 Efficient frontier plots.
