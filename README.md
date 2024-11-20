@@ -37,7 +37,7 @@ jupyter notebook Portfolio Simulator V1.0.ipynb
     - Adjust parameters such as the risk-free rate (Rf) or simulation count (simulations) if needed.
     Execute the Cells:
 
-Run the notebook cell by cell to perform portfolio analysis and visualize the results.
+4. Run the notebook cell by cell to perform portfolio analysis and visualize the results.
 
 ## Notes
 This notebook was developed as an academic project and may have areas for optimization and improvement.
