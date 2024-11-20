@@ -27,17 +27,17 @@ This project would not have been possible without the guidance provided in **Yve
    ```bash
    pip install numpy pandas yfinance scipy matplotlib seaborn dataframe_image
    ```
-2. Open the Notebook in Jupyter:
+2. **Open the Notebook in Jupyter**:
 
  ```bash
- jupyter notebook Portfolio Simulator V1.0.ipynb
+     jupyter notebook Portfolio Simulator V1.0.ipynb
  ```
-3. Update the Notebook:
+3. **Update the Notebook**:
     - Replace asset tickers and date ranges with your preferred inputs.
     - Adjust parameters such as the risk-free rate (Rf) or simulation count (simulations) if needed.
-    Execute the Cells:
-
-4. Run the notebook cell by cell to perform portfolio analysis and visualize the results.
+    
+4. **Execute the Cells**:
+   Run the notebook cell by cell to perform portfolio analysis and visualize the results.
 
 ## Notes
 This notebook was developed as an academic project and may have areas for optimization and improvement.
