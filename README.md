@@ -25,7 +25,7 @@ This project would not have been possible without the guidance provided in **Yve
 
 1. **Install Required Libraries**:
    ```bash
-   pip install numpy pandas yfinance scipy matplotlib seaborn dataframe_image
+   pip install numpy pandas yfinance scipy matplotlib seaborn
    ```
 2. **Open the Notebook in Jupyter**:
 
